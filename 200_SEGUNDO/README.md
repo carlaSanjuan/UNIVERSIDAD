@@ -11,5 +11,5 @@ SEMESTRE 2:
 -   EDA II
 -   Bases de datos II
 -   Sistemas operativos
--   Lengujes d programacion
+-   Lengujes de programacion
 -   Ingles
